@@ -16,9 +16,9 @@ public class SwapNumbers {
     int num1=0;
     int num2=0;
     void setNum(){
-        System.out.println("Please input num1 ");
+        System.out.print("Please input num1 ");
         num1=Math.abs(s.nextInt());
-        System.out.println("Please input num2 ");
+        System.out.print("Please input num2 ");
         num2=Math.abs(s.nextInt());       
     }
     
